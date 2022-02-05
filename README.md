@@ -1,1 +1,1 @@
-# EDA-on-Suicides-in-india
+# Exploratory Data Analysis on Suicides in India
